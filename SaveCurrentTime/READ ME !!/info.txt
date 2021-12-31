@@ -1,0 +1,2 @@
+File vbs da incollare in Esecuzione automatica.
+Assegnare al file exe in Debug i diritti di amministratore.
